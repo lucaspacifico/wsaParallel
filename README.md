@@ -1,6 +1,7 @@
 # wsaParallel
 Follows the implementation of the algorithm described in "Computing shortest paths from a source node to each other node" -  Liu, Guisong et. al., and a parallel implementation that parallelizes the algorithm, using OpenMP.
-[Arti cle](https://link.springer.com/article/10.1007/s00500-014-1434-2)
+
+[Article](https://link.springer.com/article/10.1007/s00500-014-1434-2)
 
 The algorithm is related to the K-shortest-path problem (KSP), which is summarized in finding the k-shortest paths in a directed weighted graph in a non-decreasing order.
 
