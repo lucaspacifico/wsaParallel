@@ -17,10 +17,10 @@ The algorithm is related to the K-shortest-path problem (KSP), which is summariz
 Some images comparing both versions
 
 # Memory Usage
-![alt text](https://github.com/lucaspacifico/wsaParallel/blob/master/memory3Versions.png)
+![alt text](https://github.com/lucaspacifico/wsaParallel/blob/master/fig/memory3Versions.png)
 
 # Time
-![alt text](https://github.com/lucaspacifico/wsaParallel/blob/master/time3Versions.png)
+![alt text](https://github.com/lucaspacifico/wsaParallel/blob/master/fig/time3Versions.png)
 
 # Dataset
 [New-York -- ~250k Nodes -- ~750k Arcs](http://users.diag.uniroma1.it/challenge9/download.shtml)
