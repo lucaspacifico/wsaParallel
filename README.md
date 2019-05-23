@@ -1,4 +1,4 @@
-# wsaParallel
+# Water Spreading Algorithm | Water Spreading Algorithm Parallel
 Follows the implementation of the algorithm described in "Computing shortest paths from a source node to each other node" -  Liu, Guisong et. al., and a parallel implementation that parallelizes the algorithm, using OpenMP.
 
 [Article](https://link.springer.com/article/10.1007/s00500-014-1434-2)
