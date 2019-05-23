@@ -6,3 +6,14 @@ Follows the implementation of the algorithm described in "Computing shortest pat
 The algorithm is related to the K-shortest-path problem (KSP), which is summarized in finding the k-shortest paths in a directed weighted graph in a non-decreasing order.
 
 
+
+# Execution
+
+1. Execute "sh compile.sh"
+2. Execute "sh execute.sh"
+
+
+# Parallel Version vs Sequential Version
+Some images comparing both versions
+
+
