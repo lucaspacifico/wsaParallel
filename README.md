@@ -23,8 +23,7 @@ Some images comparing both versions
 ![alt text](https://github.com/lucaspacifico/wsaParallel/blob/master/time3Versions.png)
 
 # Dataset
-New-York -- ~250k Nodes -- ~750k Arcs
-[Link](http://users.diag.uniroma1.it/challenge9/download.shtml)
+[New-York -- ~250k Nodes -- ~750k Arcs](http://users.diag.uniroma1.it/challenge9/download.shtml)
 
 
 
