@@ -16,4 +16,7 @@ The algorithm is related to the K-shortest-path problem (KSP), which is summariz
 # Parallel Version vs Sequential Version
 Some images comparing both versions
 
+![alt text](https://github.com/lucaspacifico/wsaParallel/blob/master/ParallelxSequential.png)
+
+
 
